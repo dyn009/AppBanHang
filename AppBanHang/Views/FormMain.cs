@@ -16,6 +16,7 @@ namespace AppBanHang.Views
     {
         private IconButton IconButton;
         string name = "lan";
+        string doanh = "doanh";
         public FormMain()
         {
             InitializeComponent();
