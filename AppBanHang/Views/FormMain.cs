@@ -15,6 +15,7 @@ namespace AppBanHang.Views
     public partial class FormMain : Form
     {
         private IconButton IconButton;
+        string name = "lan";
         public FormMain()
         {
             InitializeComponent();
